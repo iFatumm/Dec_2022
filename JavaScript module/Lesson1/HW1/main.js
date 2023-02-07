@@ -8,6 +8,24 @@ let str3 = 'com';
 console.log(str3)
 let str4 = 'ua';
 console.log(str4)
+let num = 1;
+console.log(num)
+let num1 = 10;
+console.log(num1);
+let num2 = -999;
+console.log(num2);
+let num3 = 123;
+console.log(num3);
+const PI = 3.14;
+console.log(PI);
+let num4 = 2.7;
+console.log(num4);
+let num5 = 16;
+console.log(num5);
+let bool = true;
+console.log(bool);
+let bul = false;
+console.log(bul);
 //
 // - Створити 3 змінних firstName, middleName, lastName, наповнити їх своїм ПІБ. З'єднати їх в одну змінну person (Не об'єкт,
 //     просто за допомоги конкатенації)
@@ -32,9 +50,9 @@ console.log(typeof c)
 
 let lN = prompt('Your last name')
 let fN = prompt('Your name');
-let mN = prompt('Your middle name');
+let years = prompt('Your age');
 console.log(lN);
 console.log(fN);
-console.log(mN);
+console.log(years);
 
-console.log(`${lN} ${fN} ${mN}`)
+console.log(`${lN} ${fN} ${years}`)
