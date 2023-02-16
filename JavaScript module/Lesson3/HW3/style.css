@@ -1,0 +1,12 @@
+.product-image{
+    width: 150px;
+    height: 200px;
+}
+.product-card {
+    position: relative;
+    display: inline-block;
+    margin: 30px;
+}
+.product-title{
+    color: blue;
+}
